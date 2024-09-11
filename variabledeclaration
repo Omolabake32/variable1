@@ -1,0 +1,9 @@
+# Declaration of a j variable
+j = 500
+
+print("j =", j)
+
+# Redeclaration of the j variable
+j = "1200"
+
+print("j =", j)
